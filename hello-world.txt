@@ -1,1 +1,5 @@
-hello wop
+<<<<<<< HEAD
+hello war
+=======
+hello war
+>>>>>>> 2ed4fd6860d459215ccd52dbc3ecb9d4604af3b9
